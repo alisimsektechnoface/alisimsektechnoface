@@ -55,16 +55,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=simsekali38&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simsekali38&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alisimsektechnoface&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisimsektechnoface&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=simsekali38&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=alisimsektechnoface&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simsekali38&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alisimsektechnoface&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -77,5 +77,5 @@
 [![Website](https://img.shields.io/badge/Website-068EB7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://simakel.com)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=simsekali38&label=Profile%20views&color=512bd4&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=alisimsektechnoface&label=Profile%20views&color=512bd4&style=flat" />
 </p>
